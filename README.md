@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vojta
 - 👀 I’m interested in programming(JavaScript,Python,C#) and games (Unity).
-- 🌱 I’m currently learning JavaScript (React and NodeJs)
+- 🌱 I’m currently learning JavaScript (React, NodeJs, REST API)
 - 📫 You can contact me on email: klack0man01@gmail.com
 
 - My Games:
