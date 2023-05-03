@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Vojta
-- 👀 I’m interested in programming(JavaScript,Python,C#) and games (Unity).
+- 👀 I’m interested in programming(JavaScript(React,NodeJS),Python,C#) and games (Unity).
 - 🌱 I’m currently learning JavaScript (GraphQL)
 - 📫 You can contact me on email: vojtechvrabec12@gmail.com
 
