@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vojta
-- 👀 I’m interested in programming(JavaScript(React,NodeJS),Python,C#) and games (Unity).
-- 🌱 I’m currently learning JavaScript (GraphQL)
+- I study at the university of information technology
+- 👀 I’m interested in programming(JavaScript(React,NodeJS),C#,SQL,MongoDB,MySQL) and games (Unity).
 - 📫 You can contact me on email: vojtechvrabec12@gmail.com
 
 - My Games:
